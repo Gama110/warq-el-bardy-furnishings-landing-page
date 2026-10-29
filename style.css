@@ -265,7 +265,7 @@ ul {
 }
 
 .hero-image {
-    background-image: url("images/mfrash.png") !important;
+    background-image: url(images/mfrash.png);
     background-repeat: no-repeat;
     background-size: cover;       
     background-position: center; 
