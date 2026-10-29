@@ -4,7 +4,7 @@ A technical repository containing the source code for a responsive landing page 
 
 ## Live Demo
 
-- URL: [https://gama110.github.io/warq-el-bardy-furnishings-landing-page/](https://github.io)
+- Live Demo: [View Live Site](https://gama110.github.io/warq-el-bardy-furnishings-landing-page/)
 
 ---
 
